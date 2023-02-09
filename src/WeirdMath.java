@@ -66,5 +66,6 @@ public class WeirdMath {
     {
         WeirdMath x = new WeirdMath();
         x.normal(x);
+        //hello
     }
 }
