@@ -62,6 +62,11 @@ public class WeirdMath {
             normal(x);
         }
     }
+
+public void func()
+{
+    System.out.println("this is very unstable. kinda cringe ngl.");
+}
     public static void main(String[] args)
     {
         WeirdMath x = new WeirdMath();
